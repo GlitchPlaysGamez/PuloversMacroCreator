@@ -5,10 +5,10 @@
 [Forum](https://www.autohotkey.com/boards/viewforum.php?f=63)  
 
 Author: Pulover \[Rodolfo U. Batista\]  
-Copyright © 2012-2020 Rodolfo U. Batista  
+Copyright © 2012-2021 Rodolfo U. Batista  
 
-Version: 5.3.7  
-Release Date: November, 2020  
+Version: 5.4.0  
+Release Date: January, 2021  
 AutoHotkey Version: 1.1.32.00  
 
 Software License: [GNU General Public License](License.html)  
@@ -37,6 +37,17 @@ chosen1ft for suggestions and testing.
 
 
 # Change Log
+
+## Version 5.4.0
+* Fixed missing or mixed rows when importing files.
+* Automatically adding escape char in delimiter em omit chars in Loop window.
+
+## Version 5.3.9
+* Fixed bug in Get-Area button in Image/Pixel Search window.
+
+## Version 5.3.8
+* Fixed bug with named operators.
+* Fixed scroll bug during operations with groups enabled.
 
 ## Version 5.3.7
 * Fixed *A_* variables not accessible in nested Loop commands.
